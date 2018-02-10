@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sindhu Shetty</title>
+    <link>/</link>
+    <description>Recent content on Sindhu Shetty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post 1 </title>
+      <link>/blog/post-1/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/post-1/</guid>
+      <description>TestingBlog Check !! 1,2,3 … testing !
+</description>
+    </item>
+    
+    <item>
+      <title>Post 2 </title>
+      <link>/blog/post-2/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/post-2/</guid>
+      <description>Testing - sample 21,2,3….check !
+</description>
+    </item>
+    
+    <item>
+      <title>Project 1 </title>
+      <link>/projects/posts/project-1/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/posts/project-1/</guid>
+      <description>Write about project 1 here.</description>
+    </item>
+    
+    <item>
+      <title>Project 2 </title>
+      <link>/projects/posts/project-2/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/posts/project-2/</guid>
+      <description>Write about project 2 here.</description>
+    </item>
+    
+    <item>
+      <title>colophon</title>
+      <link>/about/colophon/</link>
+      <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
+      
+      <guid>/about/colophon/</guid>
+      <description>The site is built with Hugo—a static site generator made with Go and blogdown - an open-source R package to generate static websites. The site is deployed using Netlify. It uses the cocoa theme. The posts are written in R Markdown.
+The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.</description>
+    </item>
+    
+  </channel>
+</rss>

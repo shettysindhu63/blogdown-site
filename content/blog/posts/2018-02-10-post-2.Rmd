@@ -1,0 +1,14 @@
+---
+title: 'Post 2 '
+author: Sindhu Shetty
+date: '2018-02-10'
+slug: post-2
+categories:
+  - tutorial
+tags:
+  - sample
+---
+
+### Testing - sample 2 
+
+1,2,3....check !
